@@ -1,0 +1,5 @@
+Q:\work\2017\vs2012\Server\tcp_server\tcp_server\bin\Debug\tcp_server.exe.config
+Q:\work\2017\vs2012\Server\tcp_server\tcp_server\bin\Debug\tcp_server.exe
+Q:\work\2017\vs2012\Server\tcp_server\tcp_server\bin\Debug\tcp_server.pdb
+Q:\work\2017\vs2012\Server\tcp_server\tcp_server\obj\Debug\tcp_server.exe
+Q:\work\2017\vs2012\Server\tcp_server\tcp_server\obj\Debug\tcp_server.pdb
